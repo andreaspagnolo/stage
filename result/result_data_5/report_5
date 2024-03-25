@@ -1,0 +1,3 @@
+Report:
+I expected the metrics to get worse as the standard deviation increases. This happened with all metrics except Entropy which remains practicall
+constant for all standard deviations
