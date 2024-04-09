@@ -1,3 +1,0 @@
-Report:
-I expected the metrics to get better as the standard deviation increases. This happened with all metrics except Entropy which remains practically
-constant for all standard deviations and with Calinski-Harabasz that has an irregular trend
