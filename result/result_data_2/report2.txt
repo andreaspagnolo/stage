@@ -1,0 +1,3 @@
+Report:
+I expected the metrics to get worse as the standard deviation increases. On the contrary, all the metrics, except Dunn index and Entropy which
+remain almost constant, improve as the standard deviation increases

@@ -1,0 +1,2 @@
+Report:
+I expected the metrics to get worse as the standard deviation increases. This happened with all the metrics except for the entropy that remains constant. the trend of the metrics, despite being worsening, shows a slightly irregular trend in the last standard deviations
