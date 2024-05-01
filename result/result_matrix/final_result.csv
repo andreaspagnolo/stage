@@ -1,7 +1,7 @@
 ,metric,result,time
-0,Silhouette,correct,0.0006831884384155273 s
-1,Entropy,correct,0.00023586750030517577 s
-2,Davies-Bouldin,correct,0.0001871347427368164 s
-3,Dunn index,correct,0.00045914649963378905 s
-4,Calinski-Harabasz,wrong,0.00029821395874023436 s
-5,Gap Statistic,wrong,0.032905864715576175 s
+0,Silhouette,correct,1.2763738632202148 ms
+1,Entropy,wrong,0.3777503967285156 ms
+2,Davies-Bouldin,correct,0.22838115692138672 ms
+3,Dunn index,wrong,0.4773378372192383 ms
+4,Calinski-Harabasz,correct,0.2992868423461914 ms
+5,Gap Statistic,correct,183.363676071167 ms
