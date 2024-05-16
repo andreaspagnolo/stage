@@ -1,0 +1,18 @@
+result with threshold of 33.0%
+Clusters with threshold 33.0%: [0, 1, 0, -1, 0, 0, 0, 1, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0, 0, 0, -1, -1, -1, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, -1, 0, 0]
+Clusters with Euclidean distance : [0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0]
+Clusters with K-means : [0 1 0 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0 1 0
+ 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 0 0]
+
+Metrics calculated on the labels obtained from the Euclidean distance:
+Silhouette Score: 0.27732602211949375
+Complementary Entropy Score: 0.019402559008273035
+Calinski-Harabasz Score: 23.14878488869386
+Reciprocal Davies-Bouldin Score: 0.7208703449390118
+Dunn index Score: 0.5762196580610157
+Gap Statistic Score: 0.4929369102865846
+
+To compare the results obtained with the Euclidean distance and those obtained with k-means I use the range adjusted Rand index
+range adjusted Rand index: [-1, 1]
+Threshold: 33.0%, adjusted Rand index: 0.01883856171676632

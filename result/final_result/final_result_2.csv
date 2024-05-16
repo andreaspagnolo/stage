@@ -1,7 +1,7 @@
 ,metric,number of articles
 0,Silhouette,17700
-3,Davies-Bouldin,13100
-4,Dunn index,6830
-2,Calinski-Harabasz,5380
-1,Entropy,2770
+3,Davies-Bouldin,13300
+4,Dunn index,6880
+2,Calinski-Harabasz,5780
+1,Entropy,2790
 5,Gap Statistic,69
