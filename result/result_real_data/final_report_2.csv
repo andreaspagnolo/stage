@@ -1,0 +1,13 @@
+,database,threshold,result
+0,toy_dataset_grouped.csv,20%,consistent
+1,toy_dataset_grouped.csv,30%,consistent
+2,Takashi2019_diabetes_type1_dataset_preprocessed.csv,20%,consistent
+3,Takashi2019_diabetes_type1_dataset_preprocessed.csv,30%,consistent
+4,journal.pone.0175818_S1Dataset_Spain_cardiac_arrest_EDITED.csv,20%,consistent
+5,journal.pone.0175818_S1Dataset_Spain_cardiac_arrest_EDITED.csv,30%,sufficiently consistent
+6,journal.pone.0158570_S2File_depression_heart_failure.csv,20%,sufficiently consistent
+7,journal.pone.0158570_S2File_depression_heart_failure.csv,30%,consistent
+8,journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv,20%,sufficiently consistent
+9,journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv,30%,consistent
+10,neuroblastoma.csv,20%,sufficiently consistent
+11,neuroblastoma.csv,30%,sufficiently consistent

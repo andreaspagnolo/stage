@@ -1,7 +1,7 @@
 ,metric,correct,wrong,%,avarage time
-0,Silhouette,6,0,100.0 %,2.76 ms
-2,Reciprocal Davies-Bouldin,6,0,100.0 %,1.36 ms
-3,Dunn index,6,0,100.0 %,1.783 ms
-1,Complementary Entropy,5,1,83.333 %,0.33 ms
-4,Calinski-Harabasz,5,1,83.333 %,1.027 ms
-5,Gap Statistic,5,1,83.333 %,20.866 ms
+3,Dunn index,6,0,100.0 %,2.382 ms
+0,Silhouette,5,1,83.333 %,5.724 ms
+1,Complementary Entropy,5,1,83.333 %,0.413 ms
+2,Reciprocal Davies-Bouldin,5,1,83.333 %,1.021 ms
+4,Calinski-Harabasz,5,1,83.333 %,1.157 ms
+5,Gap Statistic,5,1,83.333 %,20.983 ms
