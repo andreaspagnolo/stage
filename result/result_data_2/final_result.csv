@@ -4,4 +4,4 @@
 2,Reciprocal Davies-Bouldin,wrong,0.0004 sec
 3,Dunn index,wrong,0.0006 sec
 4,Calinski-Harabasz,wrong,0.0002 sec
-5,Gap Statistic,wrong,0.036 sec
+5,Gap Statistic,wrong,0.039 sec
