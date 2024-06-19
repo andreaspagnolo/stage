@@ -1,0 +1,7 @@
+,metric,result,average time
+0,Silhouette,wrong,0.002 sec
+1,Complementary Entropy,wrong,0.0002 sec
+2,Reciprocal Davies-Bouldin,wrong,0.0004 sec
+3,Dunn index,wrong,0.0007 sec
+4,Calinski-Harabasz,wrong,0.0002 sec
+5,Gap Statistic,wrong,0.038 sec
