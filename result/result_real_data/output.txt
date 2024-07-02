@@ -1,15 +1,15 @@
 result with threshold of 33.0%
-Clusters with threshold 33.0%: [0, 1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, 1, -1, -1, 0, -1, -1, -1, 0, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
-Clusters with Euclidean distance : [0 1 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1]
-Clusters with K-means : [0 1 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1]
+Clusters with threshold 33.0%: [0, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, 0, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 0, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1]
+Clusters with Euclidean distance : [0 1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 0 0 0 1 1 0 1]
+Clusters with K-means : [0 1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 0 0 0 1 1 0 1]
 
-Metrics calculated on the labels obtained from the Euclidean distance:
-Silhouette Score: 0.4459519284214944
-Complementary Entropy Score: 0.06333261812243751
-Calinski-Harabasz Score: 16.730085928713887
-Reciprocal Davies-Bouldin Score: 1.1086450138116135
-Dunn index Score: 0.8944316876764831
-Gap Statistic Score: -0.39972295187164386
+Metrics calculated on the labels obtained from k-means:
+Silhouette Score: 0.6210275962446555
+Complementary Entropy Score: 0.001154464004798239
+Calinski-Harabasz Score: 62.056958281845446
+Reciprocal Davies-Bouldin Score: 1.7723636298227452
+Dunn index Score: 1.144474940358587
+Gap Statistic Score: 0.2611803029077553
 
 To compare the results obtained with the Euclidean distance and those obtained with k-means I use the range adjusted Rand index
 range adjusted Rand index: [-1, 1]
