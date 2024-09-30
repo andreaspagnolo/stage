@@ -1,7 +1,7 @@
-,metric,number of articles
-0,Silhouette,"17,700"
-3,Davies-Bouldin,"13,300"
-4,Dunn index,"6,880"
-2,Calinski-Harabasz,"5,780"
-1,Entropy,"2,790"
-5,Gap Statistic,69
+,metric,number of articles,number of articles divided by months of longevity of the metric
+0,Silhouette,"17,700",40.97
+3,Davies-Bouldin,"13,300",24.4
+4,Dunn index,"6,880",11.4
+2,Calinski-Harabasz,"5,780",9.63
+1,Entropy,"2,790",3.05
+5,Gap Statistic,69,0.24
