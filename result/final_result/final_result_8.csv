@@ -1,7 +1,7 @@
 ,metric,correct,wrong,%,average time
-0,Silhouette,6,1,85.71,0.304 sec
-2,Reciprocal Davies-Bouldin,6,1,85.71,0.0006 sec
-3,Dunn index,5,2,71.43,0.125 sec
+0,Silhouette,6,1,85.71,0.322 sec
+2,Reciprocal Davies-Bouldin,6,1,85.71,0.0009 sec
+3,Dunn index,5,2,71.43,0.126 sec
+5,Gap Statistic,5,2,71.43,0.078 sec
 4,Calinski-Harabasz,4,3,57.14,0.0003 sec
-5,Gap Statistic,4,3,57.14,0.072 sec
 1,Complementary Entropy,1,6,14.29,0.0002 sec
